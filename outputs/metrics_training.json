@@ -1,0 +1,8 @@
+{
+  "episodes": 10000,
+  "mean_reward_first_window": 255.732,
+  "mean_reward_last_window": 382.2720000000001,
+  "final_epsilon": 0.05,
+  "train_stockout_rate": 0.11577,
+  "training_seconds": 5.37
+}

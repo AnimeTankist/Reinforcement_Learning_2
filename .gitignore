@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyCharm / IDE
+.idea/
+*.iml
+
+# Тестовые кэши
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

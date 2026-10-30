@@ -1,0 +1,19 @@
+{
+  "q_learning": {
+    "mean_reward": 390.07199999999995,
+    "std_reward": 44.13121815676517,
+    "fill_rate": 0.9739104528430371,
+    "stockout_rate": 0.057,
+    "avg_stock": 3.9231666666666665,
+    "mean_unmet": 3.065
+  },
+  "random": {
+    "mean_reward": 241.092,
+    "std_reward": 76.13932187772623,
+    "fill_rate": 0.934839972761321,
+    "stockout_rate": 0.081,
+    "avg_stock": 9.553166666666666,
+    "mean_unmet": 7.655
+  },
+  "eval_episodes": 200
+}
